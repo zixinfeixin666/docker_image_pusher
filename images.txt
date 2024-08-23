@@ -7,4 +7,4 @@ xhofe/alist:latest
 #测试
 python:alpine3.19
 mysql
-minio
+minio/minio:RELEASE.2024-07-16T23-46-41Z
